@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# Introduction
+## Introduction
 
 I'm Nurul Izzani binti Ahmad Shayuri, a final-year Computer Science (Software Engineering) student at University Malaya.
 
